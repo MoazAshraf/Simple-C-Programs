@@ -1,4 +1,4 @@
-// Simple implementation of the Union-Find data structure
+// Simple implementation of the union-find (disjoin set) data structure
 
 #include <stdio.h>
 

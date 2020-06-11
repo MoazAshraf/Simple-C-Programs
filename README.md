@@ -9,6 +9,6 @@ Simple programs like algorithms, math functions and UNIX tools to practice C
 - [x] Union-Find
 
 ## UNIX Tools
-- [ ] ls
+- [x] ls
 - [ ] wc
 - [ ] cat

@@ -16,3 +16,6 @@ quick_sort : quick_sort.c
 
 union_find : union_find.c
 	$(CC) $(FLAGS) -o union_find union_find.c
+
+ls : ls.c
+	$(CC) $(FLAGS) -o ls ls.c
